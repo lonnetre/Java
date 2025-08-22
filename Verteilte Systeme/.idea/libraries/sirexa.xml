@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sirexa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aufgabe0/sirexa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
