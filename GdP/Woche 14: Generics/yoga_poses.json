@@ -1,0 +1,116 @@
+[
+    {
+        "videoId": 1,
+        "name": "A",
+        "trainedParts": [],
+        "durationInSeconds": 1
+    },
+    {
+        "videoId": 2,
+        "name": "B",
+        "trainedParts": [],
+        "durationInSeconds": 2
+    },
+    {
+        "videoId": 3,
+        "name": "C",
+        "trainedParts": [],
+        "durationInSeconds": 3
+    },
+    {
+        "videoId": 4,
+        "name": "D",
+        "trainedParts": [],
+        "durationInSeconds": 5
+    },
+    {
+        "videoId": 5,
+        "name": "E",
+        "trainedParts": [],
+        "durationInSeconds": 7
+    },
+    {
+        "videoId": 6,
+        "name": "F",
+        "trainedParts": [],
+        "durationInSeconds": 9
+    },
+    {
+        "videoId": 7,
+        "name": "G",
+        "trainedParts": [],
+        "durationInSeconds": 11
+    },
+    {
+        "videoId": 8,
+        "name": "H",
+        "trainedParts": [],
+        "durationInSeconds": 13
+    },
+    {
+        "videoId": 9,
+        "name": "I",
+        "trainedParts": [],
+        "durationInSeconds": 17
+    },
+    {
+        "videoId": 10,
+        "name": "J",
+        "trainedParts": [],
+        "durationInSeconds": 19
+    },
+    {
+        "videoId": 11,
+        "name": "K",
+        "trainedParts": [],
+        "durationInSeconds": 23
+    },
+    {
+        "videoId": 12,
+        "name": "L",
+        "trainedParts": [],
+        "durationInSeconds": 29
+    },
+    {
+        "videoId": 13,
+        "name": "M",
+        "trainedParts": [],
+        "durationInSeconds": 31
+    },
+    {
+        "videoId": 14,
+        "name": "N",
+        "trainedParts": [],
+        "durationInSeconds": 37
+    },
+    {
+        "videoId": 15,
+        "name": "O",
+        "trainedParts": [],
+        "durationInSeconds": 41
+    },
+    {
+        "videoId": 16,
+        "name": "P",
+        "trainedParts": [],
+        "durationInSeconds": 43
+    },
+    {
+        "videoId": 17,
+        "name": "Q",
+        "trainedParts": [],
+        "durationInSeconds": 47
+    },
+    {
+        "videoId": 18,
+        "name": "R",
+        "trainedParts": [],
+        "durationInSeconds": 53
+    },
+    {
+        "videoId": 19,
+        "name": "S",
+        "trainedParts": [],
+        "durationInSeconds": 59
+    }
+]
